@@ -16,7 +16,7 @@ print(score) : 0.9908
 
 8.Receptive Field: It is number of pixel on input layer that can be seen by one pixel of output layer.
 
-Group members: Sudarshan Pune
-               Rupesh Mahal
-               Rishab Mishra
+Group members: Sudarshan Pune,
+               Rupesh Mahal,
+               Rishab Mishra,
                Shivansh Singhal
