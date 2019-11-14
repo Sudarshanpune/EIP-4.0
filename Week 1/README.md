@@ -1,4 +1,4 @@
-print(score) : 0.9904
+print(score) : 0.9908
 
 1.Convolution: It is a process in which kernel convolve over the input image to extract features.
 
