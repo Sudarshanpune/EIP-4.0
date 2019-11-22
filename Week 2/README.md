@@ -1,4 +1,4 @@
-20 Epochs
+*20 Epochs*
 
 Train on 60000 samples, validate on 10000 samples
 Epoch 1/20
