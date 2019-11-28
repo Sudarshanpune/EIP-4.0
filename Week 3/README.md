@@ -25,6 +25,7 @@ model.add(SeparableConv2D(num_classes,kernel_size=(2,2))) #1X1X10 #RF=44X44 mode
 model.add(Activation('softmax'))
 
 **50 Epoch logs**
+
 Epoch 1/50 390/390 [==============================] - 30s 77ms/step - loss: 1.4969 - acc: 0.4584 - val_loss: 1.3550 - val_acc: 0.5192
 
 Epoch 2/50 390/390 [==============================] - 27s 68ms/step - loss: 1.1446 - acc: 0.5919 - val_loss: 1.0737 - val_acc: 0.6171
