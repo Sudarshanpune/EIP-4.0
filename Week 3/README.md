@@ -2,6 +2,7 @@
 Accuracy on test data is: 83.30
 
 **Model definition (model.add... ) with output channel size and receptive field**
+
 model = Sequential() model.add(SeparableConv2D(48, kernel_size=(3,3), input_shape=(32, 32, 3))) #30X30X48 #RF=3X3 model.add(BatchNormalization()) model.add(Activation('relu'))
 
 model.add(SeparableConv2D(48, kernel_size=(3,3))) #28X28X48 #RF=5X5 model.add(BatchNormalization()) model.add(Activation('relu'))
